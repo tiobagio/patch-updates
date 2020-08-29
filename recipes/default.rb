@@ -53,4 +53,16 @@ installed.each do |pkg|
 	end
 end
 node.override['available-updates'] = package_updates
-puts package_updates
+#puts package_updates
+
+cmd = nil
+json_out = nil 
+history = []
+cmd = shell_out("yum history list | grep [1-9]")
+cmd.stdout.each_line do |line|
+	history << line
+end
+#puts history
+node.override['yum-history'] = history
+#File.write("/tmp/installed.out", installed)
+
