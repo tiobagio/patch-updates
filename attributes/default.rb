@@ -1,0 +1,1 @@
+default['available-updates'] = nil
