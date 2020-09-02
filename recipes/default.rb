@@ -52,7 +52,7 @@ installed.each do |pkg|
 		package_updates[pkg["name"]] = {current: pkg["version"], available: match_selection["version"]}
 	end
 end
-node.override['available-updates'] = package_updates
+node.override['software-updates'] = package_updates
 #puts package_updates
 
 cmd = nil
