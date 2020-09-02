@@ -1,0 +1,83 @@
+[
+    {
+        "SecurityBulletinIDs":  [
+
+                                ],
+        "RevisionNumber":  201,
+        "UpdateID":  "a711f6a5-5bf3-4392-95d0-686f748789dd",
+        "KBArticleIDs":  [
+                             "4103720"
+                         ],
+        "RebootRequired":  false,
+        "CveIDs":  [
+
+                   ],
+        "MsrcSeverity":  null,
+        "CategoryIDs":  [
+                            "cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83",
+                            "569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5"
+                        ],
+        "Title":  "2018-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4103720)"
+    },
+    {
+        "SecurityBulletinIDs":  [
+
+                                ],
+        "RevisionNumber":  202,
+        "UpdateID":  "2221dd34-39bb-4f16-b320-be49fe4a6b95",
+        "KBArticleIDs":  [
+                             "890830"
+                         ],
+        "RebootRequired":  false,
+        "CveIDs":  [
+
+                   ],
+        "MsrcSeverity":  null,
+        "CategoryIDs":  [
+                            "28bc880e-0592-4cbf-8f95-c79b17911d5f",
+                            "569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5",
+                            "f702a48c-919b-45d6-9aef-ca4248d50397"
+                        ],
+        "Title":  "Windows Malicious Software Removal Tool x64 - v5.82 (KB890830)"
+    },
+    {
+        "SecurityBulletinIDs":  [
+
+                                ],
+        "RevisionNumber":  200,
+        "UpdateID":  "0804dba3-719f-42c2-abab-099853cca881",
+        "KBArticleIDs":  [
+                             "4565912"
+                         ],
+        "RebootRequired":  false,
+        "CveIDs":  [
+
+                   ],
+        "MsrcSeverity":  "Critical",
+        "CategoryIDs":  [
+                            "0fa1201d-4330-4fa8-8ae9-b877473b6441",
+                            "569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5"
+                        ],
+        "Title":  "2020-07 Servicing Stack Update for Windows Server 2016 for x64-based Systems (KB4565912)"
+    },
+    {
+        "SecurityBulletinIDs":  [
+
+                                ],
+        "RevisionNumber":  200,
+        "UpdateID":  "b49576f7-6deb-4ffe-90b9-666c08cb3f1a",
+        "KBArticleIDs":  [
+                             "2267602"
+                         ],
+        "RebootRequired":  false,
+        "CveIDs":  [
+
+                   ],
+        "MsrcSeverity":  null,
+        "CategoryIDs":  [
+                            "e0789628-ce08-4437-be74-2495b842f43b",
+                            "8c3fcc84-7410-4a95-8b89-a166a0190486"
+                        ],
+        "Title":  "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.323.369.0)"
+    }
+]
